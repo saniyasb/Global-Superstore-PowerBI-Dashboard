@@ -39,8 +39,4 @@ Special thanks to **Shartak Sir** for his valuable guidance and to **SDIET Colle
 
 ---
 
-## 📸 Dashboard Preview  
-> *(Add screenshots of your dashboard here — simply upload images in GitHub and link them like below)*  
 
-```markdown
-![Dashboard Screenshot](link-to-your-screenshot.png)
